@@ -1,0 +1,6 @@
+simple-salesforce
+pandas
+aiohttp
+google-auth-oauthlib
+google-api-python-client
+python-dotenv
