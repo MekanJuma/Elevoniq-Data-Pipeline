@@ -2,6 +2,10 @@
 
 An automated data pipeline that synchronizes data between Salesforce and Google Drive, built with Python using modern async programming and OOP principles.
 
+## 👨‍💻 Author
+
+**Mekan Jumayev**
+
 ## 🌟 Features
 
 - **Salesforce Integration**
